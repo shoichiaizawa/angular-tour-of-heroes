@@ -20,7 +20,15 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "release": "standard-version",
+    "release:dryrun": "standard-version --dry-run",
+    "release:major": "standard-version --release-as major",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:prerelease-alpha": "standard-version --prerelease alpha",
+    "release:prerelease-beta": "standard-version --prerelease beta",
+    "release:prerelease-rc": "standard-version --prerelease rc"
   },
   "dependencies": {
     "@angular/animations": "11.2.4",
