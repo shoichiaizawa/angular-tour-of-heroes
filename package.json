@@ -1,6 +1,19 @@
 {
   "name": "angular-tour-of-heroes",
   "version": "0.0.0",
+  "private": true,
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.",
+  "keywords": [],
+  "homepage": "https://github.com/shoichiaizawa/angular-tour-of-heroes#readme",
+  "bugs": {
+    "url": "https://github.com/shoichiaizawa/angular-tour-of-heroes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoichiaizawa/angular-tour-of-heroes.git"
+  },
+  "license": "MIT",
+  "author": "Shoichi Aizawa <shoichiaizawa@gmail.com> (https://shoichiaizawa.github.io/)",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +22,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "11.2.4",
     "@angular/common": "11.2.4",
