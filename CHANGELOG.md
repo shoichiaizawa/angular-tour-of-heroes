@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.0](https://github.com/shoichiaizawa/angular-tour-of-heroes/compare/v0.3.0...v0.4.0) (2021-03-05)
+
+
+### Features
+
+* **heroes, hero-detail:** move the hero detail part of code to hero-detail component ([#16](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/16)) ([8ddf1f2](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/8ddf1f23f045fba1df2fcec02ec7ccecd8a4ebfe)), closes [#15](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/15)
+
 ## [0.3.0](https://github.com/shoichiaizawa/angular-tour-of-heroes/compare/v0.2.0...v0.3.0) (2021-03-05)
 
 
