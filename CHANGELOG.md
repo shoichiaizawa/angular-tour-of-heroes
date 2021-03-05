@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/shoichiaizawa/angular-tour-of-heroes/compare/v0.2.0...v0.3.0) (2021-03-05)
+
+
+### Features
+
+* **heroes:** add a hero list that is clickable to be selected ([#14](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/14)) ([e1e8444](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/e1e8444fbd97735a7ca540fed1ae51f3e4e6a6e6)), closes [#13](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/13)
+
 ## [0.2.0](https://github.com/shoichiaizawa/angular-tour-of-heroes/compare/v0.1.0...v0.2.0) (2021-03-05)
 
 
