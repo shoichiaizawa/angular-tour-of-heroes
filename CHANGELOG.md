@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/shoichiaizawa/angular-tour-of-heroes/compare/v0.1.0...v0.2.0) (2021-03-05)
+
+
+### Features
+
+* **heroes:** add a heroes component to allow the user to input a hero name ([#12](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/12)) ([28004d4](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/28004d404af0e191deb5ded69b5a1539decd450c)), closes [#11](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/11)
+
+
+### Others
+
+* **npmrc:** lock npm package versions when running `npm install <package>` ([#10](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/10)) ([d8f688d](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/d8f688dc0c84d2a3043879e1f7e710ca3f0a5433)), closes [#9](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/9)
+
 ## 0.1.0 (2021-03-04)
 
 
