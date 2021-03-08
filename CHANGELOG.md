@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.5.0](https://github.com/shoichiaizawa/angular-tour-of-heroes/compare/v0.4.0...v0.5.0) (2021-03-08)
+
+
+### Features
+
+* **heroes:** use hero service to fetch a hero list using the RxJS `of()` function ([#18](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/18)) ([5f1aba3](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/5f1aba37fed85902b931c311e3b723582aac1e3f)), closes [#17](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/17)
+* **messages:** display messages when fetching heroes as well as clicking on a hero name ([#20](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/20)) ([a88fd26](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/a88fd26588322f336282a73e35be66eb5b6aed69)), closes [#19](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/19)
+
 ## [0.4.0](https://github.com/shoichiaizawa/angular-tour-of-heroes/compare/v0.3.0...v0.4.0) (2021-03-05)
 
 
