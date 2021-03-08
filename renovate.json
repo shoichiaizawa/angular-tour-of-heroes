@@ -2,5 +2,8 @@
   "extends": [
     "config:base"
   ],
+  "reviewers": [
+    "shoichiaizawa"
+  ],
   "semanticCommitType": "build"
 }
