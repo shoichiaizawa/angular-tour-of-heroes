@@ -2,9 +2,5 @@
   "extends": [
     "config:base"
   ],
-  "packageRules": [
-    {
-      "semanticCommitType": "build"
-    }
-  ]
+  "semanticCommitType": "build"
 }
