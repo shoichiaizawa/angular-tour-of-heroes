@@ -1,6 +1,6 @@
 {
   "name": "angular-tour-of-heroes",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "private": true,
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.",
   "keywords": [],

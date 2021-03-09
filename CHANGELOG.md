@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.6.0](https://github.com/shoichiaizawa/angular-tour-of-heroes/compare/v0.5.0...v0.6.0) (2021-03-09)
+
+
+### Features
+
+* add navigation with routing and create separate pages for dashboard, heroes and hero-detail components ([#35](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/35)) ([6d8798b](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/6d8798b94a482f9128a12535f267aa130957d8cf)), closes [#34](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/34)
+
+
+### Build System
+
+* **deps:** update dependency @types/jasmine to v3.6.6 ([#22](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/22)) ([6b7299a](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/6b7299a690ee448e57d5b8206a8be520eadd5899))
+* **deps:** update dependency jasmine-spec-reporter to v6 ([#29](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/29)) ([8795681](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/8795681963b40dea9e9335b7916dc0fc3819fb80))
+* **deps:** update dependency karma to v6.1.2 ([#33](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/33)) ([89befd9](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/89befd92d441d6cc90fd50d55b97439f793012b9))
+* **deps:** update dependency ts-node to v8.10.2 ([#23](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/23)) ([1b55af5](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/1b55af5a2b04322ddc7aa852e29ae331d478630e))
+* **deps:** update dependency ts-node to v9 ([#32](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/32)) ([d43f315](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/d43f315c3b0d49b596dcdcdbec567d5b08fc024b))
+
+
+### Others
+
+* **renovate:** add a assignee to Renovate Configuration ([#37](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/37)) ([4958a45](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/4958a45d8a17de67c593ede73d34ba1dbf10bdf0)), closes [#36](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/36)
+* **renovate:** add a reviewer to Renovate Configuration ([#31](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/31)) ([1f6a695](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/1f6a69516f0cd95a9c3e8d10c02918c511d0c80e)), closes [#30](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/30)
+* **renovate:** change semanticCommitType from `chore` to `build` ([#25](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/25)) ([bef8e17](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/bef8e176256982683d064f8ee9ab7dedb7c9ebbe)), closes [#24](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/24)
+* **renovate:** configure Renovate ([#21](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/21)) ([99d81f1](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/99d81f176548802670afd406b82988c292b85ba0))
+* **renovate:** fix Renovate Configuration ([#27](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/27)) ([d2f4585](https://github.com/shoichiaizawa/angular-tour-of-heroes/commit/d2f458513afa5eb5a004579913cd7efc9c46d417)), closes [#25](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/25) [#26](https://github.com/shoichiaizawa/angular-tour-of-heroes/issues/26)
+
 ## [0.5.0](https://github.com/shoichiaizawa/angular-tour-of-heroes/compare/v0.4.0...v0.5.0) (2021-03-08)
 
 
