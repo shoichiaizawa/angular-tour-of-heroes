@@ -19,5 +19,15 @@ export class HeroDetailComponent implements OnInit {
     private location: Location,
   ) {}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.getHero();
+  }
+
+  getHero(): void {
+    // TODO: fix the error ceased by ts-ignore
+    // @ts-ignore
+    const id = +this.route.snapshot.paramMap.get('id');
+    this.heroService.getHero(id)
+        .subscribe((hero) => this.hero = hero);
+  }
 }
