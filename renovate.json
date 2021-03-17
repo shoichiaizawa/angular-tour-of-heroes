@@ -8,5 +8,17 @@
   "reviewers": [
     "shoichiaizawa"
   ],
-  "semanticCommitType": "build"
+  "semanticCommitType": "build",
+  "packageRules": [
+    {
+      "matchDepTypes": ["dependencies"],
+      "semanticCommitType": "build",
+      "semanticCommitScope": "deps"
+    },
+    {
+      "matchDepTypes": ["devDependencies"],
+      "semanticCommitType": "build",
+      "semanticCommitScope": "deps-dev"
+    }
+  ]
 }
